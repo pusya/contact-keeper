@@ -9,7 +9,7 @@ import Login from "./components/auth/Login";
 import Alerts from "./components/layout/Alerts";
 import PrivateRoute from "./components/routing/PrivateRoute";
 
-import ContactState from "./context/contact/contactState";
+import ContactState from "./context/contact/ContactState";
 import AuthState from "./context/auth/authState";
 import AlertState from "./context/alert/alertState";
 import setAuthToken from "./utils/setAuthToken";
